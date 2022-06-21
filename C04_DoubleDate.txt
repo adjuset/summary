@@ -1,0 +1,17 @@
+package koreait.day02;
+
+public class C04_DoubleDate {
+	public static void main(String[] args) {
+		
+		System.out.println("Double 정수데이터----------");
+		System.out.println("메모리 크기 : "+Double.BYTES+"바이트");
+		System.out.println("Byte 정수의 최소값: "+Double.MIN_VALUE);
+		System.out.println("Byte 정수의 최대값: "+Double.MAX_VALUE);
+	}
+
+}
+
+/* 실수 데이터 기본 형식 : float ,double 
+ * 	   Wrapper 클래스는 Float, Double
+ * 		1.234는 double 형식입니다.	
+ */
